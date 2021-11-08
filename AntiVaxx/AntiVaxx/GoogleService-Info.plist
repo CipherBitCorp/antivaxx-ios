@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>343725557757-os4d98rfue6qqa8aeklo9ibhtrnlr41u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.343725557757-os4d98rfue6qqa8aeklo9ibhtrnlr41u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCI53z0saC2oFZ12VGrFICoGVyoPk_EXJw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>343725557757</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cipherbit.antivaxx</string>
+	<key>PROJECT_ID</key>
+	<string>anti-vaxx-server</string>
+	<key>STORAGE_BUCKET</key>
+	<string>anti-vaxx-server.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:343725557757:ios:76dafa8131c59faacb7b94</string>
+</dict>
+</plist>
