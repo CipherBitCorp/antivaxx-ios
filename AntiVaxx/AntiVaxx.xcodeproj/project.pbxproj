@@ -15,7 +15,6 @@
 		6770DDE22736EFBA00AA5277 /* AntiVaxxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6770DDE12736EFBA00AA5277 /* AntiVaxxTests.swift */; };
 		6770DDEC2736EFBA00AA5277 /* AntiVaxxUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6770DDEB2736EFBA00AA5277 /* AntiVaxxUITests.swift */; };
 		6770DDEE2736EFBA00AA5277 /* AntiVaxxUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6770DDED2736EFBA00AA5277 /* AntiVaxxUITestsLaunchTests.swift */; };
-		6770DDFB2736EFEC00AA5277 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6770DDFA2736EFEC00AA5277 /* GoogleService-Info.plist */; };
 		67CDA3C02737068B0056C487 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 67CDA3BF2737068B0056C487 /* FirebaseAuth */; };
 		67CDA3C22737068B0056C487 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 67CDA3C12737068B0056C487 /* FirebaseStorage */; };
 		67CDA3C4273710000056C487 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67CDA3C3273710000056C487 /* HomeView.swift */; };
@@ -57,7 +56,6 @@
 		6770DDE72736EFBA00AA5277 /* AntiVaxxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AntiVaxxUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6770DDEB2736EFBA00AA5277 /* AntiVaxxUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AntiVaxxUITests.swift; sourceTree = "<group>"; };
 		6770DDED2736EFBA00AA5277 /* AntiVaxxUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AntiVaxxUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		6770DDFA2736EFEC00AA5277 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		67CDA3C3273710000056C487 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		67CDA3C5273710620056C487 /* RecordingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingView.swift; sourceTree = "<group>"; };
 		67CDA3C7273710970056C487 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
@@ -129,7 +127,6 @@
 				67CDA3CC273729450056C487 /* Video.swift */,
 				67CDA3CE273729960056C487 /* TempVideoFile.swift */,
 				6770DDD42736EFBA00AA5277 /* Assets.xcassets */,
-				6770DDFA2736EFEC00AA5277 /* GoogleService-Info.plist */,
 				6770DDD62736EFBA00AA5277 /* Preview Content */,
 			);
 			path = AntiVaxx;
@@ -294,7 +291,6 @@
 			files = (
 				6770DDD82736EFBA00AA5277 /* Preview Assets.xcassets in Resources */,
 				6770DDD52736EFBA00AA5277 /* Assets.xcassets in Resources */,
-				6770DDFB2736EFEC00AA5277 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
